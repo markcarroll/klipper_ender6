@@ -1,3 +1,5 @@
 printer-*.cfg
 telegram.conf
 *.backup
+telegram_config.sh
+
